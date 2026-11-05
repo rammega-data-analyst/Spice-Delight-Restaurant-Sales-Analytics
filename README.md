@@ -21,6 +21,16 @@ This Power BI project focuses on analyzing restaurant sales data to understand s
 - Prepared the dataset for analysis.
 - Final cleaned dataset contains 1,388 records.
 
+## Key Performance Indicators (KPIs)
+
+| KPI | Result |
+|---|---:|
+| Total Orders | 1K |
+| Total Quantity Sold | 3K |
+| Completed Orders | 805 |
+| Cancellation Rate | 20.42% |
+| Avg Customer Rating | 3.95 |
+| Total Revenue | 407.505K |
 ## Dashboard Preview
 ![Spice Delight Restaurant Dashboard](Dashboard%20Screenshot.png)
 
