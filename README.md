@@ -9,12 +9,13 @@ This Power BI project focuses on analyzing restaurant sales data to understand s
 - Understand sales patterns and trends.
 - Evaluate key business performance indicators.
 - Present insights through an interactive Power BI dashboard.
+## Project Files
+- Restaurant Sales Dataset – Original project dataset.
+
 
 ## Tools & Technologies
 - Microsoft Power BI
-- Data Cleaning
-- Data Visualization
-- KPI Reporting
+
 
 ## Data Cleaning
 - Reviewed and cleaned the restaurant sales dataset.
@@ -34,9 +35,7 @@ This Power BI project focuses on analyzing restaurant sales data to understand s
 ## Dashboard Preview
 ![Spice Delight Restaurant Dashboard](Dashboard%20Screenshot.png)
 
-## Project Files
-- Restaurant Sales Dataset – Original project dataset.
-- Dashboard Screenshot.png – Power BI dashboard preview.
+
 
 ## Conclusion
 This project demonstrates the use of Microsoft Power BI for restaurant sales analysis, data visualization, KPI reporting, and interactive dashboard development.
